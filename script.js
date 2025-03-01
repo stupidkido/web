@@ -29,7 +29,7 @@ signupBtn.addEventListener('click', (e) => {
 
 function validatePassword() {
 	var password = document.getElementById("password").value;
-	var correctPassword = "iloveyouchinni";
+	var correctPassword = "loveyouabhijna";
 
 	if (password === correctPassword) {
 
